@@ -1,0 +1,26 @@
+_repo: The-White-Eagle-of-Poland_58914
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward Frederic
+    - Benson, Edward F. (Edward Frederic)
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_issued: '2019-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The White Eagle of Poland
+url: http://www.gutenberg.org/ebooks/58914
